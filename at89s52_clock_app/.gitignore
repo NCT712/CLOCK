@@ -1,0 +1,11 @@
+# Thư mục build chứa file nhị phân và tệp trung gian do SDCC sinh ra
+build/
+*.rel
+*.asm
+*.lst
+*.rst
+*.sym
+*.ihx
+*.lk
+*.map
+*.mem
